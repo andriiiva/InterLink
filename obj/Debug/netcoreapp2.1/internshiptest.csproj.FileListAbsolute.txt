@@ -20,3 +20,14 @@
 /home/vnchnk/job/work/obj/Debug/netcoreapp2.1/internshiptest.AssemblyInfo.cs
 /home/vnchnk/job/work/obj/Debug/netcoreapp2.1/internshiptest.dll
 /home/vnchnk/job/work/obj/Debug/netcoreapp2.1/internshiptest.pdb
+/home/intern/Documents/InterLink/bin/Debug/netcoreapp2.1/internshiptest.deps.json
+/home/intern/Documents/InterLink/bin/Debug/netcoreapp2.1/internshiptest.runtimeconfig.json
+/home/intern/Documents/InterLink/bin/Debug/netcoreapp2.1/internshiptest.runtimeconfig.dev.json
+/home/intern/Documents/InterLink/bin/Debug/netcoreapp2.1/internshiptest.dll
+/home/intern/Documents/InterLink/bin/Debug/netcoreapp2.1/internshiptest.pdb
+/home/intern/Documents/InterLink/obj/Debug/netcoreapp2.1/internshiptest.csprojAssemblyReference.cache
+/home/intern/Documents/InterLink/obj/Debug/netcoreapp2.1/internshiptest.csproj.CoreCompileInputs.cache
+/home/intern/Documents/InterLink/obj/Debug/netcoreapp2.1/internshiptest.AssemblyInfoInputs.cache
+/home/intern/Documents/InterLink/obj/Debug/netcoreapp2.1/internshiptest.AssemblyInfo.cs
+/home/intern/Documents/InterLink/obj/Debug/netcoreapp2.1/internshiptest.dll
+/home/intern/Documents/InterLink/obj/Debug/netcoreapp2.1/internshiptest.pdb
